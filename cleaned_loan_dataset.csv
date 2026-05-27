@@ -1,0 +1,9 @@
+ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Gender,Married,Education,Self_Employed,Property_Area,Loan_Status
+45000,0,150,360,1,Male,Yes,Graduate,No,Urban,Approved
+55000,15000,200,360,1,Female,Yes,Graduate,No,Semiurban,Approved
+32000,5000,100,180,0,Male,No,Not Graduate,Yes,Rural,Rejected
+76000,20000,250,360,1,Male,Yes,Graduate,No,Urban,Approved
+41000,0,130,360,1,Female,No,Graduate,No,Rural,Approved
+60000,12000,180,360,1,Male,Yes,Graduate,Yes,Semiurban,Approved
+52000,8000,160,180,0,Female,No,Not Graduate,No,Urban,Rejected
+30000,0,90,120,0,Male,No,Graduate,No,Rural,Rejected
